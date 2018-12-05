@@ -2,7 +2,7 @@ let provider = false
 
 let Divies = {
 	balance: null,
-	address: '0xB03fD023b8eD2bfb464f7d46B4bF610B132A90Fe',
+	address: '0xc7029Ed9EBa97A096e72607f4340c34049C7AF48',
 	ABI: ABIs.divies,
 	contract: null,
 	
